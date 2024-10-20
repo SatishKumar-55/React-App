@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.7acb6a3f.css",
+    "main.js": "/React-App/static/js/main.c647fd79.js",
+    "static/js/453.edd2e845.chunk.js": "/React-App/static/js/453.edd2e845.chunk.js",
+    "static/media/boxicons.svg": "/React-App/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/React-App/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/React-App/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/React-App/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/React-App/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "index.html": "/React-App/index.html",
+    "main.7acb6a3f.css.map": "/React-App/static/css/main.7acb6a3f.css.map",
+    "main.c647fd79.js.map": "/React-App/static/js/main.c647fd79.js.map",
+    "453.edd2e845.chunk.js.map": "/React-App/static/js/453.edd2e845.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acb6a3f.css",
+    "static/js/main.c647fd79.js"
+  ]
+}
